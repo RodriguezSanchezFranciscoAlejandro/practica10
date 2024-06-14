@@ -1,0 +1,17 @@
+button {
+    padding: 10px 20px;
+    background-color: #4d9aff;
+    color: #0400ff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 6px rgb(0, 0, 0, 0.8);
+}
+
+body{
+   background-image: url("123.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: Verdana !important;
+}
